@@ -3,9 +3,13 @@
 read about: husky, eslint, tsconfig
 
 **prettier** https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-0000-jopapa
-    1. CMD + Shift + P -> Format Document
+   
+   1. CMD + Shift + P -> Format Document
+   
    OR
+   
    1. Select the text you want to Prettify
+   
    2. CMD + Shift + P -> Format Selection
 
 
