@@ -1,8 +1,17 @@
 # Week 1
  
-read about: husky, eslint, tsconfig
+read about: husky, eslint,
 
-**prettier** https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-0000-jopapa
+**tsconfig**
+http://json.schemastore.org/tsconfig
+
+https://www.typescriptlang.org/tsconfig
+
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+**prettier** 
+
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-0000-jopapa
    
    1. CMD + Shift + P -> Format Document
    
