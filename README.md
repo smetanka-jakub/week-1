@@ -1,6 +1,7 @@
 # Week 1
  
-read about: husky, eslint, tsconfig, 
+read about: husky, eslint, tsconfig
+
 **prettier** https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-0000-jopapa
     1. CMD + Shift + P -> Format Document
    OR
